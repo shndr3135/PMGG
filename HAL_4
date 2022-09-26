@@ -1,0 +1,29 @@
+<html>
+	<body background="Comp 27.jpg">
+	<img src="SMK Plus Pratama Adi-JPG-Kecil-Warna.jpg" width="100" height="100" align="right"><br>
+	<center>
+		<h1 align="center">Halaman Informasi Guru</h1>
+		<hr><br>
+		<table border="2" cellpadding="1" cellspacing="1">
+		<tr>
+		<th>Nama Guru</th>
+		<th>Mata Pelajaran</th>
+		</tr>
+		<tr>
+		<td>Mr. Henry Saeful Khadi</td>
+		<td>TLJ</td>
+		</tr>
+		<tr>
+		<td>Mr. Tasyakur</td>
+		<td>PABP</td>
+		</tr>
+		<tr>
+		<td>Miss Sumiyati Setyami</td>
+		<td>Matematika</td>
+		</tr>
+		</table><br>
+		<a href="HAL_1"><font color="blue"><button><u>Home</u></button></font></a href><br>
+		<a href="HAL_3"><font color="blue"><button><u>Back</u></button></font></a href>
+		</center>
+	</body>
+</html>
