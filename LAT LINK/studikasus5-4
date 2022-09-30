@@ -1,0 +1,10 @@
+<html>
+	<head>
+	<title>hyperlink</title>
+	</head>
+	<body>
+	<h1>ini adalah halaman link</h1>
+	<a href="subfolder/studikasus5-5">Halaman nweb di subfolder/studikasus5-5</a href>
+	
+	</body>
+</html>

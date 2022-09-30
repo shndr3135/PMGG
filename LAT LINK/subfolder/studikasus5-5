@@ -1,0 +1,10 @@
+<html>
+	<head>
+	<title>hyperlink</title>
+	</head>
+	<body>
+	<h1>ini adalah halaman studikasus5-5 sebagai tujuan link</h1>
+	<a href="../studikasus5-4">Kembali ke studikasus5-4</a href>
+	
+	</body>
+</html>
