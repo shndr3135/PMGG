@@ -1,0 +1,34 @@
+<html>
+	<body background="Cheetah.jpg">
+	<img src="SMK Plus Pratama Adi-JPG-Kecil-Warna.jpg" width="100" height="100" align="right"><br>
+	<center>
+		<h1 align="center">Halaman Informasi Fasilitas</h1>
+		<hr><br>
+		<table border="2" cellpadding="1" cellspacing="1">
+		<tr>
+		<th>No.</th>
+		<th>Fasilitas</th>
+		</tr>
+		<tr>
+		<td>1</td>
+		<td>6 Lab. dengan masing masing murid 1 komputer</td>
+		</tr>
+		<tr>
+		<td>2</td>
+		<td>15 ruang kelas</td>
+		</tr>
+		<tr>
+		<td>3</td>
+		<td>Perpustakaan</td>
+		</tr>
+		<tr>
+		<td>4</td>
+		<td>Mushola</td>
+		</tr>
+		</table><br>
+		<a href="HAL_1"><font color="blue"><button><u>Home</u></button></font></a href><br>
+		<a href="HAL_4"><font color="blue"><button><u>Next</u></button></font></a href>
+		<a href="HAL_2"><font color="blue"><button><u>Back</u></button></font></a href>
+		</center>
+	</body>
+</html>

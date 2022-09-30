@@ -1,0 +1,15 @@
+<html>
+	<head>
+	<title>Website Utama</title>
+	</head>
+	<body>
+	<img src="SMK Plus Pratama Adi-JPG-Kecil-Warna.jpg" width="100" height="100" align="right"><br>
+	<h1 align="center"> Web Informasi Sekolah</h1>
+	<hr>
+	<center>
+	<a href="HAL_2"><font color="blue"><u>Halaman Informasi Sekolah</u></font></a href><br><br>
+	<a href="HAL_3"><font color="blue"><u>Halaman Informasi Sarana dan Prasarana</u></font></a href><br><br>
+	<a href="HAL_4"><font color="blue"><u>Halaman Informasi Guru</u></font></a href><br>
+	</center>  
+	</body>
+</html>
